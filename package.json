@@ -1,15 +1,15 @@
 {
-  "name": "one-dark-ui",
+  "name": "dotnet-dev-ui",
   "theme": "ui",
   "version": "1.3.1",
-  "description": "Atom One dark UI theme",
+  "description": "Atom Dot Net UI theme",
   "keywords": [
     "dark",
     "adaptive",
     "ui"
   ],
   "license": "MIT",
-  "repository": "https://github.com/atom/one-dark-ui",
+  "repository": "https://github.com/sivakumarganga/dotnet-dev-ui",
   "main": "lib/main",
   "engines": {
     "atom": ">0.40.0"
